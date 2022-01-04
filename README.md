@@ -6,7 +6,7 @@
 
 ### Stack de Tecnologias
 
-* React.JS
+* React.js (Hasta no tener una version estable solo subire los builds)
 * SASS
 
 ### Licencia de Uso
