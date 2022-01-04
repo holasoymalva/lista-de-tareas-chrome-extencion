@@ -8,3 +8,4 @@
 
 ### Licencia de Uso
 
+[MIT](https://choosealicense.com/licenses/mit/)
